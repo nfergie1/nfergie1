@@ -1,13 +1,8 @@
 # Natekka Ferguson
+
 ## About Me
+I live in Clayton, NC. I am a mother of three children.
 
 ### My Interest
 
 ### Websites I Recommend
-<!--
-**nfergie1/nfergie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Natekka Ferguson
-nferguson1@my.waketech.edu
-This is my CTI110 SP2025 Github account
-This repository is going to hold all of my work for class
