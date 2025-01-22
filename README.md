@@ -1,7 +1,7 @@
 # Natekka Ferguson
 
 ## About Me
-I live in Clayton, NC. I am a mother of three children.
+I live in NC. 
 
 ### My Interest
 
