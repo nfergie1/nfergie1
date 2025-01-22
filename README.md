@@ -5,8 +5,8 @@
 
 ### My Interest
 * _I like to read inspirational books_.
-I like to cook.
-I like to write poetry.
+* _I like to cook_.
+* _I like to write poetry_.
 
 ### Websites I Recommend
 * 
