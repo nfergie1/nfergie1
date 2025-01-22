@@ -1,9 +1,9 @@
 # Natekka Ferguson
-# About Me
+## About Me
 
-## My Interest
+### My Interest
 
-## Websites I Recommend
+### Websites I Recommend
 <!--
 **nfergie1/nfergie1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
